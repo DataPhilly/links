@@ -1,14 +1,13 @@
-
 <div align="center">
 
-## Social Media
-
+<header>
+  <h2>Social Media</h2>
+</header>
 <a href="https://www.meetup.com/DataPhilly/" style="display: inline-block; border: 2px solid darkblue; padding: 10px; text-decoration: none; color: black; width: 500px; height: 80px; border-radius: 25px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Meetup_Logo.png/225px-Meetup_Logo.png" alt="Meetup" height="50"><br>
   Meetup - Sign up for upcoming events!
 </a>  
 <br><br>
-
 
 <a href="https://join.slack.com/t/dataphilly/shared_invite/zt-2jumsno1h-C8JoHt06ZtvxSYfcytRv1A" style="display: inline-block; border: 2px solid darkblue; padding: 10px; text-decoration: none; color: black; width: 500px; height: 80px; border-radius: 25px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/127px-Slack_icon_2019.svg.png" alt="Slack" height="50"><br>
@@ -16,17 +15,16 @@
 </a>  
 <br><br>
 
-
 <a href="https://www.linkedin.com/groups/12713736/" style="display: inline-block; border: 2px solid darkblue; padding: 10px; text-decoration: none; color: black; width: 500px; height: 80px; border-radius: 25px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="50"><br>
   LinkedIn - Connect with local professionals
 </a>  
-<br><br>
+<br><br><br>
 
 
-
-
-## Support DataPhilly
+<header>
+  <h2>Support DataPhilly</h2></h2>
+</header>
 
 <a href="https://forms.gle/Xs9nv9d4Cwnh7XYHA" style="display: inline-block; border: 2px solid darkblue; padding: 10px; text-decoration: none; color: black; width: 500px; height: 80px; border-radius: 25px;">
   <img src="https://www.svgrepo.com/show/429960/people-support-avatar.svg" alt="DataPhilly - Volunteer Application" height="50"><br>
@@ -50,10 +48,13 @@
   <img src="https://www.svgrepo.com/show/474909/money-transfer.svg" alt="DataPhilly - Speaker" height="50"><br>
   Found a sponsor for our events?
 </a>  
-<br><br>
+<br><br><br>
 
-## Content Platforms
 
+
+<header>
+  <h2>Content Platforms</h2></h2>
+</header>
 
 <a href="https://dataphilly.github.io/" style="display: inline-block; border: 2px solid darkblue; padding: 10px; text-decoration: none; color: black; width: 500px; height: 80px; border-radius: 25px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Github"  height="50"><br>
@@ -65,6 +66,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/768px-YouTube_full-color_icon_%282017%29.svg.png?20240107144800" alt="YouTube"  height="40"><br>
   YouTube - Watch recordings from previous events
 </a>  
-<br><br>
+<br><br><br>
 
 </div>
