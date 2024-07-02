@@ -5,7 +5,7 @@
 
 <a href="https://www.meetup.com/DataPhilly/" style="display: inline-block; border: 2px solid darkblue; padding: 10px; text-decoration: none; color: black; width: 500px; height: 80px; border-radius: 25px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Meetup_Logo.png/225px-Meetup_Logo.png" alt="Meetup" height="50"><br>
-  Meetup - Sign up for upcoming events
+  Meetup - Sign up for upcoming events!
 </a>  
 <br><br>
 
