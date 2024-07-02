@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -10,6 +9,7 @@
   }
   header h2 {
     text-align: center; /* Ensure headers are centered */
+    color: black; /* Default text color */
   }
   .link-button {
     display: inline-block;
