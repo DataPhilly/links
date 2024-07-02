@@ -59,7 +59,7 @@
 
 <a href="https://dataphilly.github.io/" style="display: inline-block; border: 2px solid darkblue; padding: 10px; text-decoration: none; color: black; width: 400px; height: 95px; border-radius: 25px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Github"  height="50"><br>
-  Github - Browse content from previous events and workshops
+  Github - Browse content from previous events
 </a>  
 <br><br>
 
