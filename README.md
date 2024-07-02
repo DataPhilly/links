@@ -101,14 +101,14 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Github"  height="50"><br>
   Github - Browse content from previous events
 </a>
-<br><br><br><br>
+<br>
 
 <a href="https://www.youtube.com/channel/UCvwDejnW-Q49xEb667JqS-g" class="link-button">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/768px-YouTube_full-color_icon_%282017%29.svg.png?20240107144800" alt="YouTube"  height="40"><br>
   YouTube - Watch recordings from previous events
 </a>  
-<br><br>
+<br><br><br>
 
-<p><a href="mailto:admin@dataphilly.com">Contact us at admin@dataphilly.com</a></p>
+<p>>Contact us at <a href="mailto:admin@dataphilly.com"admin@dataphilly.com</a></p>
 
 </div>
