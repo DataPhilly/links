@@ -46,19 +46,19 @@
 </header>
 <a href="https://www.meetup.com/DataPhilly/" class="link-button">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Meetup_Logo.png/225px-Meetup_Logo.png" alt="Meetup" height="50"><br>
-  Meetup - Sign up for upcoming events!
+  Sign up for upcoming events!
 </a>
 <br>
 
 <a href="https://join.slack.com/t/dataphilly/shared_invite/zt-2jumsno1h-C8JoHt06ZtvxSYfcytRv1A" class="link-button">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/127px-Slack_icon_2019.svg.png" alt="Slack" height="50"><br>
-  Slack - Join the discussions in our workspace
+  Join the discussions in our workspace
 </a>
 <br>
 
 <a href="https://www.linkedin.com/groups/12713736/" class="link-button">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="50"><br>
-  LinkedIn - Connect with local professionals
+  Connect with local professionals
 </a>  
 <br><br>
 
@@ -99,16 +99,16 @@
 
 <a href="https://dataphilly.github.io/" class="link-button">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Github"  height="50"><br>
-  Github - Browse content from previous events
+  Content from previous events and workshops
 </a>
 <br>
 
 <a href="https://www.youtube.com/channel/UCvwDejnW-Q49xEb667JqS-g" class="link-button">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/768px-YouTube_full-color_icon_%282017%29.svg.png?20240107144800" alt="YouTube"  height="40"><br>
-  YouTube - Watch recordings from previous events
+  Watch recordings from previous events
 </a>  
 <br><br><br>
 
-<p>>Contact us at <a href="mailto:admin@dataphilly.com"admin@dataphilly.com</a></p>
+<p>Contact us at <a href="mailto:admin@dataphilly.com"admin@dataphilly.com</a>admin@dataphilly.com</p>
 
 </div>
