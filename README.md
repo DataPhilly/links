@@ -110,7 +110,8 @@
 <br><br><br>
 
 <body>
-<p>Contact us at <a href="mailto:admin@dataphilly.com"admin@dataphilly.com>admin@dataphilly.com</a></p>
+<p>Contact us at </p>
+<p><a href="mailto:admin@dataphilly.com"admin@dataphilly.com>admin@dataphilly.com</a></p>
 </body>
 
 </div>
