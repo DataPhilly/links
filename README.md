@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
   body {
-    color: white; /* Default text color */
+    color: black; /* Default text color */
     text-align: center; /* Center text globally */
   }
   header h2 {
