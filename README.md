@@ -109,6 +109,8 @@
 </a>  
 <br><br><br>
 
+<body>
 <p>Contact us at <a href="mailto:admin@dataphilly.com"admin@dataphilly.com</a>admin@dataphilly.com</p>
+</body>
 
 </div>
