@@ -42,7 +42,7 @@
 <div align="center">
 
 <header>
-  <h2>Make meaningful connections</h2>
+  <h2>Connect, collaborate, and learn with other data professionals!</h2>
 </header>
 <a href="https://www.meetup.com/DataPhilly/" class="link-button">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Meetup_Logo.png/225px-Meetup_Logo.png" alt="Meetup" height="50"><br>
@@ -52,13 +52,13 @@
 
 <a href="https://join.slack.com/t/dataphilly/shared_invite/zt-2jumsno1h-C8JoHt06ZtvxSYfcytRv1A" class="link-button">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/127px-Slack_icon_2019.svg.png" alt="Slack" height="50"><br>
-  Join the discussions in our workspace
+  We're building a community of data professionals on Slack. Join us!
 </a>
 <br>
 
-<a href="https://www.linkedin.com/groups/12713736/" class="link-button">
+<a href="https://www.linkedin.com/company/dataphilly/" class="link-button">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="50"><br>
-  Connect with local professionals
+  Connect with us on LinkedIn!
 </a>  
 <br><br>
 
