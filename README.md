@@ -52,7 +52,7 @@
 
 <a href="https://join.slack.com/t/dataphilly/shared_invite/zt-2jumsno1h-C8JoHt06ZtvxSYfcytRv1A" class="link-button">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/127px-Slack_icon_2019.svg.png" alt="Slack" height="50"><br>
-  We're building a community of data professionals on Slack. Join us!
+  Join fellow data professionals on Slack!
 </a>
 <br>
 
