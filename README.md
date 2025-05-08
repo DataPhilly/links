@@ -86,9 +86,15 @@
 <br>
 
 <a href="https://goo.gl/JLVfqh" class="link-button">
-  <img src="https://www.svgrepo.com/show/474909/money-transfer.svg" alt="DataPhilly - Speaker" height="50"><br>
+  <img src="https://www.svgrepo.com/show/474909/money-transfer.svg" alt="DataPhilly - Sponsor" height="50"><br>
   Found a sponsor for our events?
 </a>  
+<br>
+
+<a href="https://tinyurl.com/OpenCollective-DataPhilly" class="link-button">
+  <img src="https://cdn.svgrepo.com/show/354141/opencollective.svg" alt="DataPhilly - Donate" height="50"><br>
+  Support our mission with a donation today!
+</a>
 <br><br>
 
 
