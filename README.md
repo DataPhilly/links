@@ -45,13 +45,13 @@
   <h2>Connect, collaborate, and learn with other data professionals!</h2>
 </header>
 <a href="https://www.meetup.com/DataPhilly/" class="link-button">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Meetup_Logo.png/225px-Meetup_Logo.png" alt="Meetup" height="50"><br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Meetup_Logo.png" alt="Meetup" height="50"><br>
   Sign up for upcoming events!
 </a>
 <br>
 
 <a href="https://join.slack.com/t/dataphilly/shared_invite/zt-2jumsno1h-C8JoHt06ZtvxSYfcytRv1A" class="link-button">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/127px-Slack_icon_2019.svg.png" alt="Slack" height="50"><br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Slack_icon_2019.svg" alt="Slack" height="50"><br>
   Join fellow data professionals on Slack!
 </a>
 <br>
@@ -110,7 +110,7 @@
 <br>
 
 <a href="https://www.youtube.com/channel/UCvwDejnW-Q49xEb667JqS-g" class="link-button">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/768px-YouTube_full-color_icon_%282017%29.svg.png?20240107144800" alt="YouTube"  height="40"><br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/YouTube_full-color_icon_%282024%29.svg" alt="YouTube"  height="40"><br>
   Watch recordings from previous events
 </a>  
 <br><br><br>
